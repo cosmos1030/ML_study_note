@@ -40,3 +40,4 @@ This repository is to organize what I learned about machine learning
 * [Deep Learning Paper review github](https://github.com/Seonghoon-Yu/AI_Paper_Review)
 * [Deep Learning Paper review by Na Dong Bin](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
 * [How to study Machine Learning](https://github.com/teddylee777/machine-learning)
+* [my notion](https://reinvented-sidewalk-82d.notion.site/Data-Science-c3d5e40e7a7f4efdbb1ce584a1a95b1d)
