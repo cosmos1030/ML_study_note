@@ -16,6 +16,7 @@ This repository is to organize what I learned about machine learning
 
 ### Models
 * [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+* [linear regression](https://machinelearningknowledge.ai/linear-regression-in-python-sklearn-with-example/)
 
 ### Tools
 * pandas / [tutorial](https://www.kaggle.com/learn/pandas?rvi=1)
