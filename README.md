@@ -17,6 +17,9 @@ This repository is to organize what I learned about machine learning
 ### Models
 * [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
+### Tools
+* pandas / [tutorial](https://www.kaggle.com/learn/pandas?rvi=1)
+
 ## Image processing
 ### academic papers
 * [R-CNN]()[(Explanation)](https://deep-learning-study.tistory.com/410)
