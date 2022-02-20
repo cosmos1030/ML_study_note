@@ -20,6 +20,7 @@ This repository is to organize what I learned about machine learning
 
 ### Tools
 * pandas / [tutorial](https://www.kaggle.com/learn/pandas?rvi=1)
+* sklearn / [tutorial](https://scikit-learn.org/stable/user_guide.html)
 
 ## Image processing
 ### academic papers
