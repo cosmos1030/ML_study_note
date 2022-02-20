@@ -19,8 +19,8 @@ This repository is to organize what I learned about machine learning
 
 ## Image processing
 ### academic papers
-* [R-CNN]()[Explanation](https://deep-learning-study.tistory.com/410)
-* [DETR](https://arxiv.org/abs/2005.12872)[Explanation](https://deep-learning-study.tistory.com/748)
+* [R-CNN]()[(Explanation)](https://deep-learning-study.tistory.com/410)
+* [DETR](https://arxiv.org/abs/2005.12872)[(Explanation)](https://deep-learning-study.tistory.com/748)
   + pros
     - Doesn't need hand-designed components
     - Doesn't need specialized library
