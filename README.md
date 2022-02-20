@@ -17,9 +17,13 @@ This repository is to organize what I learned about machine learning
 
 ## Terms
 * [IoU](https://deep-learning-study.tistory.com/402)
-* [Non-Max Suppression](https://deep-learning-study.tistory.com/403)
+* [Non-Max Suppression, NMS](https://deep-learning-study.tistory.com/403)
+* [mean Average Precision, mAP/ Precision/ Recall](https://deep-learning-study.tistory.com/407)
+* [crop, warp](https://deep-learning-study.tistory.com/445)
 
  
 # Reference
 * [Deep Learning Paper review blog](https://deep-learning-study.tistory.com/861)
 * [Deep Learning Paper review github](https://github.com/Seonghoon-Yu/AI_Paper_Review)
+* [Deep Learning Paper review by Na Dong Bin](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice)
+* [How to study Machine Learning](https://github.com/teddylee777/machine-learning)
