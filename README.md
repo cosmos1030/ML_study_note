@@ -7,6 +7,9 @@ This repository is to organize what I learned about machine learning
   + When seeing experiment, focus on the graphs, images
 * [advice by Andrew Ng](https://media-ai.tistory.com/7)
 
+## Machine Learning Introduction
+* [Youtube video that explains mathematical concepts about ml](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA)
+
 ## Image processing
 ### academic papers
 * [DETR](https://arxiv.org/abs/2005.12872)
