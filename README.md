@@ -23,7 +23,7 @@ This repository is to organize what I learned about machine learning
   + pros
     - Doesn't need hand-designed components
     - Doesn't need specialized library
-* [Explanation](https://deep-learning-study.tistory.com/748)
+  + [Explanation](https://deep-learning-study.tistory.com/748)
 
 ### Terms
 * [IoU](https://deep-learning-study.tistory.com/402)
