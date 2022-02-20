@@ -7,8 +7,13 @@ This repository is to organize what I learned about machine learning
   + When seeing experiment, focus on the graphs, images
 * [advice by Andrew Ng](https://media-ai.tistory.com/7)
 
-## Machine Learning Introduction
+## Machine Learning Basics
 * [Youtube video that explains mathematical concepts about ml](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA)
+
+### 
+* [classification problems vs regression problems](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+* [supervised learning vs unsupervised learning]()
+* [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
 ## Image processing
 ### academic papers
