@@ -19,8 +19,9 @@ This repository is to organize what I learned about machine learning
 * [linear regression](https://machinelearningknowledge.ai/linear-regression-in-python-sklearn-with-example/)
 
 ### Tools
-* pandas / [tutorial](https://www.kaggle.com/learn/pandas?rvi=1)
-* sklearn / [tutorial](https://scikit-learn.org/stable/user_guide.html)
+* numpy [(tutorial)](https://numpy.org/doc/stable/user/quickstart.html)
+* pandas [(tutorial)](https://www.kaggle.com/learn/pandas?rvi=1)
+* sklearn [(tutorial)](https://scikit-learn.org/stable/user_guide.html)
 
 ## Image processing
 ### academic papers
