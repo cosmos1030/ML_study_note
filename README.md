@@ -2,7 +2,7 @@
 This repository is to organize what I learned about machine learning
 
 ## How to start
-* [how to read papers](https://aistory4u.tistory.com/entry/%EC%97%B0%EA%B5%AC%EB%B0%A9%EB%B2%95-%EB%85%BC%EB%AC%B8-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EB%B2%95-%E2%80%94-%EC%9E%85%EB%AC%B8%EC%9E%90%ED%8E%B8)  
+* [how to read papers](https://aistory4u.tistory.com/entry/%EC%97%B0%EA%B5%AC%EB%B0%A9%EB%B2%95-%EB%85%BC%EB%AC%B8-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EB%B2%95-%E2%80%94-%EC%9E%85%EB%AC%B8%EC%9E%90%ED%8E%B8) / [Summary](https://reinvented-sidewalk-82d.notion.site/how-to-read-papers-6587dc4bd8f049dfac33e980f4b8736b)  
   + Just see Title-Abstrat-Experiment categories of the paper  
   + When seeing experiment, focus on the graphs, images
 * [advice by Andrew Ng](https://media-ai.tistory.com/7)
