@@ -12,10 +12,10 @@ This repository is to organize what I learned about machine learning
 
 ### Concepts
 * [classification problems vs regression problems](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-* [supervised learning vs unsupervised learning]()
+* [supervised learning vs unsupervised learning]() ([Summary](https://reinvented-sidewalk-82d.notion.site/Supervised-Learning-vs-Unsupervised-Learning-0a95c2c20f904462b9f74c516bac8b3d))
 
 ### Models
-* [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+* [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761) ([Summary](https://reinvented-sidewalk-82d.notion.site/Classification-problems-vs-Regression-problems-487e0cee41224344a09e1ee46f470320))
 * [linear regression](https://machinelearningknowledge.ai/linear-regression-in-python-sklearn-with-example/)
 
 ### Tools
