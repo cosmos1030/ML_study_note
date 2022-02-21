@@ -21,6 +21,7 @@ This repository is to organize what I learned about machine learning
 ### Tools
 * numpy [(tutorial)](https://numpy.org/doc/stable/user/quickstart.html)
 * pandas [(tutorial)](https://www.kaggle.com/learn/pandas?rvi=1)
+* matplotlib.pyplot [(tutorial)](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
 * sklearn [(tutorial)](https://scikit-learn.org/stable/user_guide.html)
 
 ## Image processing
