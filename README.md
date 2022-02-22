@@ -39,6 +39,9 @@ This repository is to organize what I learned about machine learning
 * [mean Average Precision, mAP/ Precision/ Recall](https://deep-learning-study.tistory.com/407)
 * [crop, warp](https://deep-learning-study.tistory.com/445)
 
+## How to write paper
+* [Advice by Sue Moon](https://sbmoon.tistory.com/241)
+* [Advice by 화난 에르빈 슈뢰딩거](https://phdkim.net/board/free/23489/)
  
 ## Reference
 * [Deep Learning Paper review blog](https://deep-learning-study.tistory.com/861)
