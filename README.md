@@ -6,6 +6,7 @@ This repository is to organize what I learned about machine learning
   + Just see Title-Abstrat-Experiment categories of the paper  
   + When seeing experiment, focus on the graphs, images
 * [advice by Andrew Ng](https://media-ai.tistory.com/7)
+* [How to use Colab](https://blog.naver.com/dyk6208/222665496577)
 
 ## Machine Learning Basics
 * [Youtube video that explains mathematical concepts about ml](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA)
@@ -15,8 +16,19 @@ This repository is to organize what I learned about machine learning
 * [supervised learning vs unsupervised learning]() ([summary](https://reinvented-sidewalk-82d.notion.site/Supervised-Learning-vs-Unsupervised-Learning-0a95c2c20f904462b9f74c516bac8b3d))
 
 ### Models
-* [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-* [linear regression](https://machinelearningknowledge.ai/linear-regression-in-python-sklearn-with-example/)
+* [preprocessing](https://blog.naver.com/dyk6208/222674594318)
+#### Supervised Learning
+* regression
+  + [linear regression](https://blog.naver.com/dyk6208/222681770596)
+* classification
+  + [Naive Bayes Classification](https://blog.naver.com/dyk6208/222683097376)
+  + [k-nearest neighbor classification](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+  + [Decision Tree classification](https://blog.naver.com/dyk6208/222683660196)
+  + [Random Forest classification](https://blog.naver.com/dyk6208/222684315987)
+#### Unsupervised Learning
+* clustering
+  + [K-means clustering]
+  + [Heirachical clustering]
 
 ### Tools
 * numpy [(tutorial)](https://numpy.org/doc/stable/user/quickstart.html)
@@ -38,6 +50,8 @@ This repository is to organize what I learned about machine learning
 * [Non-Max Suppression, NMS](https://deep-learning-study.tistory.com/403)
 * [mean Average Precision, mAP/ Precision/ Recall](https://deep-learning-study.tistory.com/407)
 * [crop, warp](https://deep-learning-study.tistory.com/445)
+
+## NLP
 
 ## How to write paper
 * [Advice by Sue Moon](https://sbmoon.tistory.com/241)
